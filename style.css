@@ -20,7 +20,7 @@ main{
 }
 
 footer {
-    position: solid;
+    position: relative;
     background-color: red;
     width: 100%;
     height: 11%;
